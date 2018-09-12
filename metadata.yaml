@@ -1,0 +1,43 @@
+_repo: The-Fire-and-the-Sword_51170
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Emshwiller, Ed
+    aliases:
+    - Emsh
+    - Alexander, Ed
+    - Emsh, Ed
+    - Willer
+    - Emshwiller, Edmund A.
+    birthdate: 1925
+    deathdate: 1990
+    gutenberg_agent_id: '25412'
+    url: http://www.gutenberg.org/2009/agents/25412
+    wikipedia: http://en.wikipedia.org/wiki/Ed_Emshwiller
+creator:
+  author:
+    agent_name: Robinson, Frank M.
+    alias: Robinson, Frank Malcolm
+    birthdate: 1926
+    deathdate: 2014
+    gutenberg_agent_id: '34076'
+    url: http://www.gutenberg.org/2009/agents/34076
+    wikipedia: http://en.wikipedia.org/wiki/Frank_M._Robinson
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2016-02-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51170'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Extrasolar planets -- Fiction'
+- !lcsh 'Suicide -- Fiction'
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- GITenberg
+title: The Fire and the Sword
+url: http://www.gutenberg.org/ebooks/51170
